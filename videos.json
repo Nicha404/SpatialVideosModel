@@ -1,0 +1,22 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Basketball at Sunset",
+      "width": 350,
+      "videoURL": "https://stream.spatialgen.com/stream/video1.m3u8",
+      "thumbnailURL": "https://example.com/thumb1.jpg",
+      "description": "Experience an immersive basketball game at sunset",
+      "duration": "2:15"
+    },
+    {
+      "id": "2",
+      "title": "Mountain Adventure",
+      "width": 320,
+      "videoURL": "https://stream.spatialgen.com/stream/video2.m3u8",
+      "thumbnailURL": "https://example.com/thumb2.jpg",
+      "description": "Journey through majestic mountain landscapes",
+      "duration": "3:45"
+    }
+  ]
+}
