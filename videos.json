@@ -20,11 +20,11 @@
     },
     {
       "id": "3",
-      "title": "Dune",
+      "title": "Villa tour in Marbella",
       "width": 360,
-      "videoURL": "https://stream.spatialgen.com/stream/video1.m3u8",
-      "thumbnailURL": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25309598/rev_1_DUN2_T3_0084r_High_Res_JPEG.jpeg?quality=90&strip=all&crop=10.44921875%2C0%2C79.1015625%2C100&w=2400",
-      "description": "111",
+      "videoURL": "https://stream.spatialgen.com/stream/kDiumHgQ8ergfxmdnGOVt/index.m3u8",
+      "thumbnailURL": "https://cdn.jsdelivr.net/gh/Nicha404/thumbnail/marbella.avif",
+      "description": "Villa tour in Marbella",
       "duration": "3:11"
     },
     {
@@ -58,7 +58,7 @@
       "id": "7",
       "title": "Hotdog Cook",
       "width": 400,
-      "videoURL": "https://stream.spatialgen.com/stream/video1.m3u8",
+      "videoURL": "https://stream.spatialgen.com/stream/kDiumHgQ8ergfxmdnGOVt/index.m3u8",
       "thumbnailURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSajw4Ze3MwF2a1POkfQaol1Wg7zpcQ9BlFzw&s",
       "description": "111",
       "duration": "1:15"
@@ -68,7 +68,7 @@
       "title": "Paris",
       "width": 340,
       "videoURL": "https://stream.spatialgen.com/stream/video1.m3u8",
-      "thumbnailURL": "https://a.storyblok.com/f/239725/4096x2731/c3337fde3a/01_fr_par_hero_eiffeltower.png/m/3840x2560",
+      "thumbnailURL": "https://stream.spatialgen.com/stream/kDiumHgQ8ergfxmdnGOVt/index.m3u8",
       "description": "111",
       "duration": "2:15"
     }
