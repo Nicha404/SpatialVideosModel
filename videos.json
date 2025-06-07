@@ -200,15 +200,6 @@
     },
     {
       "id": "23",
-      "title": "TRUMP Cabinet Meeting",
-      "width": 390,
-      "videoURL": "https://stream.spatialgen.com/stream/N2G3VjRQ2V7fFUafW3wR1/index.m3u8",
-      "thumbnailURL": "https://cdn.jsdelivr.net/gh/Nicha404/thumbnail/cabinet.avif",
-      "description": "Disclaimer:\nAt Para, we are committed to creating spatial experiences that help people feel truly present in any space. Inspired by Apple’s vision of spatial computing, we seek to reconstruct how people engage with creative works in immersive ways. This video is based on the original work titled [Donald Trump starts first Cabinet meeting with opening prayer from Scott Turner] by [WFAA], and all rights remain with the original creator. Most of the videos on our platform are used under reuse allowed licenses, and some are adapted into 3D formats to offer new ways of experiencing and appreciating the creator’s work. Our goal is to help promote and celebrate the creator’s content through immersive formats. If you are the original creator and prefer this content not to appear on our platform, or if you experience any discomfort while watching, please contact us at \"commu.para@gmail.com\".\nWe respond to such requests promptly and respectfully.",
-      "duration": "1:49"
-    },
-    {
-      "id": "24",
       "title": "Card Tricks with Jeff Bezos",
       "width": 370,
       "videoURL": "https://stream.spatialgen.com/stream/a9SLHfs5ev6EG4K1N0WVn/index.m3u8",
@@ -217,7 +208,7 @@
       "duration": "3:47"
     },
     {
-      "id": "25",
+      "id": "24",
       "title": "Perfetto from bean to cup Brad Pitt x De’Longhi Global Campaign Chapter",
       "width": 380,
       "videoURL": "https://stream.spatialgen.com/stream/tqexfIgCcOVApYYKTN4hC/index.m3u8",
@@ -226,7 +217,7 @@
       "duration": "1:00"
     },
     {
-      "id": "26",
+      "id": "25",
       "title": "the beauty of a charming white horse",
       "width": 390,
       "videoURL": "https://stream.spatialgen.com/stream/n4xfogRt7x41zbTk4EEAZ/index.m3u8",
@@ -235,7 +226,7 @@
       "duration": "3:15"
     },
     {
-      "id": "27",
+      "id": "26",
       "title": "CYBERTRUCK",
       "width": 400,
       "videoURL": "https://stream.spatialgen.com/stream/ifv2aRxZwxr74TuYg242E/index.m3u8",
@@ -244,7 +235,7 @@
       "duration": "1:51"
     },
     {
-      "id": "28",
+      "id": "27",
       "title": "Wingsuit Flight",
       "width": 410,
       "videoURL": "https://stream.spatialgen.com/stream/7T22wMz5HtGyKHuHrlq0M/index.m3u8",
@@ -253,7 +244,7 @@
       "duration": "2:03"
     },
     {
-      "id": "29",
+      "id": "28",
       "title": "Triumph Speed Twin 900 - POV Ride",
       "width": 400,
       "videoURL": "https://stream.spatialgen.com/stream/kzCDhPdgNHcGXpyRDvlcu/index.m3u8",
@@ -262,7 +253,7 @@
       "duration": "3:26"
     },
     {
-      "id": "30",
+      "id": "29",
       "title": "Gdragon - Crooked",
       "width": 380,
       "videoURL": "https://stream.spatialgen.com/stream/8XuDQJK5xuG8M8KNMCAnq/index.m3u8",
@@ -271,7 +262,7 @@
       "duration": "3:13"
     },
     {
-      "id": "31",
+      "id": "30",
       "title": "Stunning Dolphin Paradise",
       "width": 410,
       "videoURL": "https://stream.spatialgen.com/stream/9BWUarqP9rWo4Gm7GDAHF/index.m3u8",
@@ -280,22 +271,13 @@
       "duration": "3:08"
     },
     {
-      "id": "32",
+      "id": "31",
       "title": "Humpback Whale Breaches Next to Boat",
       "width": 390,
       "videoURL": "https://stream.spatialgen.com/stream/DpQETf969TDykBwxmTiZ9/index.m3u8",
       "thumbnailURL": "https://raw.githubusercontent.com/Nicha404/thumbnail/refs/heads/main/humpback.avif",
       "description": "At Para, we aim to enhance how people experience creative works through spatial technology, inspired by Apple Vision Pro. This video is based on [Humpback Whale Breaches Next to Boat] by [Tristan Krause], with all rights belonging to the original creator. Most videos on our platform are used under reuse-allowed licenses and may be adapted into 3D for immersive viewing. If you're the original creator and would like your content removed, please contact us at [commu.para@gmail.com]",
       "duration": "0:26"
-    },
-    {
-      "id": "33",
-      "title": "President Trump & Zelensky conversation",
-      "width": 400,
-      "videoURL": "https://stream.spatialgen.com/stream/U2SKI67Poo9xeuowG5h5v/index.m3u8",
-      "thumbnailURL": "https://raw.githubusercontent.com/Nicha404/thumbnail/refs/heads/main/trumpzelensky.avif",
-      "description": "At Para, we aim to enhance how people experience creative works through spatial technology, inspired by Apple Vision Pro. This video is based on [JD Triggers Zelensky, Then Trump Snaps: Zelensky Fires Right Back!] by [NewsFlash!], with all rights belonging to the original creator. Most videos on our platform are used under reuse-allowed licenses and may be adapted into 3D for immersive viewing. If you're the original creator and would like your content removed, please contact us at [commu.para@gmail.com]",
-      "duration": "9:26"
     }
   ]
 }
